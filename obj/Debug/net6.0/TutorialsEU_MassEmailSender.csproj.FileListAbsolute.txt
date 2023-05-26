@@ -1,0 +1,15 @@
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\obj\Debug\net6.0\TutorialsEU_MassEmailSender.csproj.AssemblyReference.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\obj\Debug\net6.0\TutorialsEU_MassEmailSender.GeneratedMSBuildEditorConfig.editorconfig
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\obj\Debug\net6.0\TutorialsEU_MassEmailSender.AssemblyInfoInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\obj\Debug\net6.0\TutorialsEU_MassEmailSender.AssemblyInfo.cs
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\obj\Debug\net6.0\TutorialsEU_MassEmailSender.csproj.CoreCompileInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\bin\Debug\net6.0\TutorialsEU_MassEmailSender.exe
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\bin\Debug\net6.0\TutorialsEU_MassEmailSender.deps.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\bin\Debug\net6.0\TutorialsEU_MassEmailSender.runtimeconfig.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\bin\Debug\net6.0\TutorialsEU_MassEmailSender.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\bin\Debug\net6.0\TutorialsEU_MassEmailSender.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\obj\Debug\net6.0\TutorialsEU_MassEmailSender.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\obj\Debug\net6.0\refint\TutorialsEU_MassEmailSender.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\obj\Debug\net6.0\TutorialsEU_MassEmailSender.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\obj\Debug\net6.0\TutorialsEU_MassEmailSender.genruntimeconfig.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_MassEmailSender\obj\Debug\net6.0\ref\TutorialsEU_MassEmailSender.dll
